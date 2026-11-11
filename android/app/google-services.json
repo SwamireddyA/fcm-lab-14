@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "526843325831",
+    "project_id": "auth-lab-sai",
+    "storage_bucket": "auth-lab-sai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526843325831:android:aad2b4b98d268411343722",
+        "android_client_info": {
+          "package_name": "com.example.auth_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526843325831-571fresrim760s9i5el54jop0lltsioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB0UKgVd5nal0ZZQ_Vh1IV1UoM5BvJSLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526843325831-571fresrim760s9i5el54jop0lltsioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526843325831-ja6kc84uqeob4mdeqmsqrbr8fdmkmo41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authLab"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526843325831:android:7f6968b984213b9b343722",
+        "android_client_info": {
+          "package_name": "com.example.fcm_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526843325831-571fresrim760s9i5el54jop0lltsioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB0UKgVd5nal0ZZQ_Vh1IV1UoM5BvJSLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526843325831-571fresrim760s9i5el54jop0lltsioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "526843325831-ja6kc84uqeob4mdeqmsqrbr8fdmkmo41.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authLab"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
